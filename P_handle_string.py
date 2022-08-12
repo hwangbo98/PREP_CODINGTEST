@@ -1,3 +1,6 @@
+#https://school.programmers.co.kr/learn/courses/30/lessons/12918
+#문자열 다루기 프로그래머스
+
 def solution(s):
     answer = True
     s_list = list(s)
