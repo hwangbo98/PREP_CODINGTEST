@@ -13,5 +13,5 @@ for num in range (test_case) :
     for k in int_list[1:] :
         if k > avg_score :
             count_num+=1
-    print(count_num)
+    #print(count_num)
     print(f"{round(float(count_num/int_list[0])*100,3):.3f}%")
