@@ -1,7 +1,4 @@
 
-from itertools import count
-
-
 count_person = int(input())
 
 first_char = []

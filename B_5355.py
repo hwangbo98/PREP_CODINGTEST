@@ -1,4 +1,4 @@
-
+#백준 5355번 화성수학
 result = []
 
 case_num = int(input())
