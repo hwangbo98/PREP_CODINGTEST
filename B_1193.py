@@ -1,6 +1,4 @@
-
-from re import I
-
+#백준 1193번 분수찾기 https://www.acmicpc.net/problem/1193
 
 num = int(input())
 sum_num  = 0
